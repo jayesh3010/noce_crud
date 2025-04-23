@@ -10,11 +10,11 @@ npm run start
 
 To get bootstrap libraries
 cdnjs.com
-Bootstrap libraries
-    bootstrap.min.css
-    bootstrap.bundle.min.js
+    Bootstrap libraries
+        bootstrap.min.css
+        bootstrap.bundle.min.js
 
-Font-awesome
-    all.min.css
+    Font-awesome (Cheetsheet - https://fontawesome.com/v4/cheatsheet/)
+        all.min.css
 
 
